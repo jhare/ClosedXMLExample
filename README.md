@@ -1,4 +1,6 @@
-# ClosedXMLExample
+# ExcelWeb
+
+Split an excel file's sheets into CSVs via an API
 
 Visual Studio 2022
 
